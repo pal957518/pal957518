@@ -1,0 +1,171 @@
+<html>
+	<head>
+		<title> 2nd day task</title>
+	</head>
+	<body>
+	<h1>==>Unorder list<==</h1>
+		<ul>
+			<li>BCA </li>
+			<li>MCA </li>
+			<li>B.COM</li>
+			<li>BA</li>
+			<li>MA</li>
+		</ul>
+	
+	<h1>==>Order list<==</h1>
+		<ol>
+			<li>Ram</li>
+			<li>Shayam</li>
+			<li>Sita</li>
+			<li>Laxman</li>
+			<li>Ravan</li>
+		</ol>
+	<h1>==>Defination list<==</h1>
+		<dl>
+			<dt>Computer</dt>
+				<dd>Computer is a electronics device.</dd>
+		</dl>
+		<dl>
+			<dt>HTML</dt>
+				<dd>Hyper Text Markup Language</dd>
+		</dl>
+		<dl>
+			<dt>HTTP</dt>
+				<dd>Hyper Text  Transfer Protocol</dd>
+		</dl>
+		<dl>
+			<dt>CPU</dt>
+				<dd>Central Processing Unit</dd>
+		</dl>
+		
+	<h1>==>Nested list<==</h1>
+		<ul>
+			<li>Computer
+				<ol>
+					<li>CPU
+						<ul>
+							<li>HHD</li>
+							<li>SSD</li>
+							<li>Motherboard</li>
+						</ul>
+					</li>
+					<li>Printer
+						<ul>
+							<li>Inkjet</li>
+							<li>laser Printer</li>
+						</ul>
+					</li>
+				</ol>
+			</li>
+			<li>Mobile
+				<ol>
+					<li>Earphone
+						<ul>
+							<li>Boat</li>
+							<li>Jbl</li>
+							<li>Ubon</li>
+						</ul>
+					</li>
+					<li>Battry
+						<ul>
+							<li>Lion battry</li>
+							<li>China battry</li>
+						</ul>
+					</li>
+				</ol>
+			</li>
+		</ul>
+
+	<h1>==>Table And Link<==</h1>
+	<table border="1" ">
+		<tr>
+			<td><a href="https://www.facebook.com/SilverOakUni/" target="_blank">Facebook</a></td>
+			<td><a href="https://silveroakuni.ac.in/" target="_blank">Silver Oak Univercity</a></td>
+			<td><a href="https://github.com/" target="_blank">github</a></td>
+		</tr>
+	
+	</table>
+	
+	<table border="1">
+		<tr>
+			<td><a href="https://www.facebook.com/SilverOakUni/" target="_blank"><img alt="Facebook" src="2.png"
+         width=150" height="50"></a></td>
+			<td><a href="https://silveroakuni.ac.in/" target="_blank"><img alt="Silver Oak Univercity" src="1.png"
+         width=150" height="50"></a></td>
+			<td><a href="https://github.com/" target="_blank"><img alt=github" src="3.png"
+         width=150" height="50"></a></td>
+		</tr>
+	
+	</table>
+	<br>
+	<br>
+	<br>
+	<br>
+	
+	<table border="1">
+		<tr>
+			<th>Time</th>
+			<th>Monday</th>
+			<th>Tuesday</th>
+			<th>Wednesday</th>
+			<th>Thursday</th>
+			<th>Friday</th>
+			<th>Saturday</th>
+		</tr>
+		<tr>
+			<td>7:45 To 8:35</td>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+		</tr>
+		<tr>
+			<td>8:35 To 9:25</td>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+		</tr>
+		<tr>
+			<td>7:45 To 8:35</td>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+		</tr>
+		<tr>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+		</tr>
+		<tr>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+		</tr>
+		<tr>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+			<td>Lab (819,820)</td>
+		</tr>
+	</table>
+	
+	
+	
+	</body>
+</html>
