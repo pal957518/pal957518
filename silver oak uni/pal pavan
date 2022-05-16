@@ -1,0 +1,51 @@
+<html>
+	<head>
+			<style>table,th,td{border:2px solid black;}
+			</style>
+			
+	</head>
+<body>
+<h1 align="center"><u>Table</u></h1>
+<h1>Student Table</h1>
+	<table>
+		<tr>
+			<th>Er NO</th>
+			<th>Name</th>
+			<th>Fee</th>
+			<th>Mobile</th>
+			<th>Email</th>
+			<th>Age</th>
+		</tr>
+		<tr>
+			<td>2104030100944</td>
+			<td>Shivam Sharma</td>
+			<td>400000</td>
+			<td>7268926778</td>
+			<td>shivam sharma7084@gmail.com</td>
+			<td rowspan="2">19</td>
+		</tr>
+		<tr>
+			<td>2104030100944</td>
+			<td>yadav nitesh</td>
+			<td>400000</td>
+			<td>9737959016</td>
+			<td>yadav973@gmail.com</td>
+			
+		</tr>
+		<tr>
+			<td>2104030100936</td>
+			<td>pal sumit</td>
+			<td>400000</td>
+			<td>...........</td>
+			<td>sumit973@gmail.com</td>
+			<td>18</td>
+		</tr>
+    
+    </table>
+
+
+
+
+		
+</body>
+</html>
